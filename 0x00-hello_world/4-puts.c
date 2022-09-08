@@ -1,12 +1,12 @@
 #include <stdio.h>
 /**
-* Using puts() - How to use puts inside of main in C
+* main - How to use puts() inside of main() in C
 *
-* Return: 0
+* Return: Always 0 (Success)
 */
 
-int main (void)
+int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
-	return 0;
+	return (0);
 }
