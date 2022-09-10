@@ -20,12 +20,12 @@ int main(void)
 		{
 			putchar(d1 + '0');
 			putchar(d2 + '0');
-			if (d1 == 9 && d2 == 9)
+			if (d1 == 0 && d2 == 9)
 				continue;
 			putchar(',');
 			putchar(' ');
 		}
-		n++
+		n++;
 	}
 	putchar('\n');
 	return (0);
