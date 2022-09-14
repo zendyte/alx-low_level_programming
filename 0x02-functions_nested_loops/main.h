@@ -9,5 +9,6 @@
 
 char _putchar (char c); /* @_putchar prototype */
 void print_alphabet(void); /* Use @_putchar to @print_alphabet */
+void print_alphabet_x10(void); /* Use @_putchar to @print_alphabet_x10 */
 
 #endif /* Check if header file _MAIN_H_ already exit */
