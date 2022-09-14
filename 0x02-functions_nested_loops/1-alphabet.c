@@ -4,7 +4,8 @@
 *
 * Return: On success 0 else -1.
 */
-int main(void)
+
+void print_alphabet(void)
 {
 	char abc = 'a';
 
@@ -13,5 +14,4 @@ int main(void)
 		abc++;
 	} while (abc < 'z');
 	_putchar('\n');
-	return (0);
 }
