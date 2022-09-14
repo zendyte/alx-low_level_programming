@@ -1,8 +1,8 @@
 #include "main.h"
 /**
-* main - Call _putchar function to print @abc to stdout
+* print_alphabet - Call _putchar function to print @abc to stdout
 *
-* Return: On success 0 else -1.
+* Return: Void.
 */
 
 void print_alphabet(void)
@@ -12,6 +12,6 @@ void print_alphabet(void)
 	do {
 		_putchar(abc);
 		abc++;
-	} while (abc < 'z');
+	} while (abc <= 'z');
 	_putchar('\n');
 }
