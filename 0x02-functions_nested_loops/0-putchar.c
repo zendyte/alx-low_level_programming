@@ -12,7 +12,7 @@ int main(void)
 	do {
 		_putchar(a[b]);
 		b++;
-	} while (b < 8);
+	} while (b < 7);
 	_putchar('\n');
 	return (0);
 }
