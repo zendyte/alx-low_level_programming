@@ -8,5 +8,6 @@
 */
 
 char _putchar (char c); /* @_putchar prototype */
+void print_alphabet(void); /* Use @_putchar to @print_alphabet */
 
 #endif /* Check if header file _MAIN_H_ already exit */
