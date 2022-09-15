@@ -9,12 +9,23 @@
 
 /* _putchar - write @c to std=o & return @c on success */
 char _putchar (char c);
+
 /* print_alphabet - print @c & return void */
 void print_alphabet(void);
+
 /* print_alphabet_x10 - print @c_x10 & return void */
 void print_alphabet_x10(void);
+
 /* _islower - check if @c is lowercase, return 1 if true 0 otherwise */
 int _islower(int c);
+
 /* _isalpha - check if @c is [A-Z][a-z], return 1 if true 0 otherwise  */
 int _isalpha(int c);
+
+/* print_sign - print sign, */
+/* if: (n > @c) return +, 1, */
+/* elif: (n == @c) return 0, 0 */
+/* fi: (n < @c) return  -, 0 */
+int print_sign(int n);
+
 #endif /* Check if header file _MAIN_H_ already exit */
