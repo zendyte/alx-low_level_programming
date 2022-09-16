@@ -21,4 +21,7 @@ void print_most_numbers(void)
 /* more_numbers - Print numbers [0-14], repest 10x */
 void more_numbers(void);
 
+/* print_line - Print straight line using putchar of n size */
+void print_line(int n);
+
 #endif /* MAIN_H */
