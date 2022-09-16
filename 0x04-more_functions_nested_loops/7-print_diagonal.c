@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print a straight line using putchar of @n size
+ * print_diagonal - a diagonal line using putchar of @n size
  * @n: @n: size of line
  */
 
