@@ -30,4 +30,7 @@ void print_diagonal(int n);
 /* print_square - Print square of n size */
 void print_square(int n);
 
+/* print_triangle - print backwards triangle of n @size */
+void print_triangle(int size);
+
 #endif /* MAIN_H */
