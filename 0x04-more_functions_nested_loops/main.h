@@ -14,4 +14,10 @@ int mul(int a, int b);
 
 /* print_numbers - Print num [0-9], then \n && return void */
 void print_numbers(void);
+
+/*  print_most_numbers - Print the numbers [0-9], except [2 && 4] */
+void print_most_numbers(void)
+
+
+
 #endif /* MAIN_H */
