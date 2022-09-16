@@ -3,6 +3,9 @@
 
 #include <stdio.h>
 
+/* _putchar - Write @c to std=o */
+int _putchar(char c);
+
 /* _isupper - check if @c is A-Z */
 int _isupper(int c);
 
