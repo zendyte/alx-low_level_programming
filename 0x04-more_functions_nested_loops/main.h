@@ -19,7 +19,7 @@ int mul(int a, int b);
 void print_numbers(void);
 
 /*  print_most_numbers - Print the numbers [0-9], except [2 && 4] */
-void print_most_numbers(void)
+void print_most_numbers(void);
 
 /* more_numbers - Print numbers [0-14], repest 10x */
 void more_numbers(void);
