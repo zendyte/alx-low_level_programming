@@ -1,19 +1,19 @@
 #include "main.h"
 
 /**
-* print_square - Print square of n size
+* print_square - Print square  @n size
 * @n: size of square
 */
 
-void print_square(int size)
+void print_square(int n)
 {
 	int i = 0, j;
 
-	if (size > 0)
+	if (n > 0)
 	{
-		for (; i < size; i++)
+		for (; i < n; i++)
 		{
-			for (j = 0; j < size; j++)
+			for (j = 0; j < n; j++)
 				_putchar(35);
 			_putchar('\n');
 		}
