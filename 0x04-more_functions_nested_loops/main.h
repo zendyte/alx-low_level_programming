@@ -8,5 +8,4 @@ int _isupper(int c);
 
 /* _isdigit - check if @c is digit */
 int _isdigit(int c);
-
 #endif /* MAIN_H */
