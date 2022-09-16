@@ -27,4 +27,7 @@ void print_line(int n);
 /* print_diagonal - print a straight line using putchar of @n size */
 void print_diagonal(int n);
 
+/* print_square - Print square of n size */
+void print_square(int n);
+
 #endif /* MAIN_H */
