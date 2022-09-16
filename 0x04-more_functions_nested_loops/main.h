@@ -33,4 +33,7 @@ void print_square(int n);
 /* print_triangle - print backwards triangle of n @size */
 void print_triangle(int size);
 
+/* print_number - print any integer using putchar */
+void print_number(int n);
+
 #endif /* MAIN_H */
