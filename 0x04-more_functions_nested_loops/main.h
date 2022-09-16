@@ -11,4 +11,7 @@ int _isdigit(int c);
 
 /* mul - multiply two integers */
 int mul(int a, int b);
+
+/* print_numbers - Print num [0-9], then \n && return void */
+void print_numbers(void);
 #endif /* MAIN_H */
