@@ -1,5 +1,5 @@
 /**
- * _strncpy - pointerFunc that copies @src to @dest including the
+ * _strncpy - pointerFunc that copies @src to @dest including the '\0'
  * @src: soucre
  * @dest: destination
  * @n: array size/lenght to be pass
