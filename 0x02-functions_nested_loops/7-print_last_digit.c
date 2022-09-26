@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_last_digit - extract last number of a variable
- * @i: variable where we extract last number
+ * @c: variable where we extract last number
  * Return: i if succesful
  */
 
