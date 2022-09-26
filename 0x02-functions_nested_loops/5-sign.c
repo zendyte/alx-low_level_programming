@@ -13,6 +13,7 @@
 int print_sign(int c)
 {
 	int i;
+
 	if (c > 0)
 	{
 		_putchar('+');
