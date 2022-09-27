@@ -1,9 +1,8 @@
-#include "main.h"
 /**
-* _isupper - check if @c is lowercase
-* @c: variable to check if is lowercase
-* Return: 1 if c is lowercase fi 0..
-*/
+ * _isupper - check if @c is lowercase
+ * @c: variable to check if is lowercase
+ * Return: 1 if c is lowercase fi 0..
+ */
 
 /* Function Defination - @_isupper */
 
