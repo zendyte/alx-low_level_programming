@@ -8,8 +8,8 @@
 int main(void)
 {
 	int sum, i;
-	sum = 0;
 
+	sum = 0;
 	for (i = 1023; i; i--)
 		if (!(i % 3) || !(i % 5))
 			sum += i;
