@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
-* main - print square of n size
-* Return: 0 if succesful
-*/
+ * main - print square of n size
+ * Return: 0 if succesful
+ */
 
 int main(void)
 {
@@ -20,6 +20,6 @@ int main(void)
 		else
 			printf("%d ", i);
 	}
-	printf("Buzz\n");
+	printf("\n");
 	return (0);
 }
